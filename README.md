@@ -6,7 +6,7 @@
 ## Clone the project
 
 ```bash
-git clone https://github.com/POOL4T7/shop.git
+git clone https://github.com/tapesh1523/TensorGo-Assigment.git
 ```
 <br>
 
