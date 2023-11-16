@@ -49,7 +49,7 @@ npm run dev
 ## 2. Due Invoice List
 <img src="https://github.com/tapesh1523/TensorGo-Assigment/blob/main/png/Screenshot%202023-11-16%20104549.png" >
 
-## 3. Intergrated Zapier for Payment Reminder
+## 3. Intergrated Zapier for Payment Reminder (Trigger Automation)
 <img src="https://github.com/tapesh1523/TensorGo-Assigment/blob/main/png/Screenshot%202023-11-16%20104657.png" >
 
 ## 4. Store invoice details in mongodb atlas
